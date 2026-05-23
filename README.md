@@ -1,5 +1,3 @@
-<img width="1098" height="684" alt="591478144-af079fbd-7205-4a42-ae46-673245c5235d" src="https://github.com/user-attachments/assets/098bd4f7-9e00-43cf-a100-bee89e0b22f7" /><img width="1098" height="563" alt="591478301-ae593327-e836-48d4-84b4-3728025d2213" src="https://github.com/user-attachments/assets/421e8207-bdcd-4e35-b25c-5f8535a3c8cb" />
-<img width="1098" height="563" alt="591478301-ae593327-e836-48d4-84b4-3728025d2213" src="https://github.com/user-attachments/assets/ecff70a8-5f17-4995-8848-d91e13de788a" />
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
